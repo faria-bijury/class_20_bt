@@ -1,0 +1,14 @@
+.col{
+	border: 1px solid red;
+}
+.box{
+	background-color:red;
+	height: 80px;
+}
+.h_400{
+	min-height: 400px;
+}
+
+.col-4{
+	border: 1px solid blue;
+}
